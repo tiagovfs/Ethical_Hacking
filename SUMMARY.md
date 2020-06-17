@@ -12,6 +12,7 @@
 ## 02-Scanning
 
 * [Nmap](02-scanning/nmap.md)
+* [Enumeration](02-scanning/enumeration.md)
 
 ## 03-Gain Access
 
@@ -24,4 +25,8 @@
 ## 05-Analysis
 
 * [Untitled](05-analysis/untitled.md)
+
+## Python
+
+* [Python](python/python.md)
 
