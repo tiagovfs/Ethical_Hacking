@@ -7,7 +7,7 @@
 * [Tools](01-reconnaissance/tools.md)
 * [OSINT](01-reconnaissance/osint.md)
 * [Google Hacking](01-reconnaissance/google-hacking.md)
-* [Kali Information Gathering Links](01-reconnaissance/kali-information-gathering-links.md)
+* [Footprint](01-reconnaissance/footprint.md)
 
 ## 02-Scanning
 

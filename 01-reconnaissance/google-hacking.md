@@ -1,5 +1,7 @@
 # Google Hacking
 
+**Google Hacking** - [http://www.exploit-db.com/google-dorks](http://www.exploit-db.com/google-dorks)
+
 **allintitle:**admin
 
 **site:** Search only one website conference site:www.sans.org \(Search SANS site for conference info\)
