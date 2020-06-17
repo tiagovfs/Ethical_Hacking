@@ -6,6 +6,7 @@
 
 * [Tools](01-reconnaissance/tools.md)
 * [OSINT](01-reconnaissance/osint.md)
+* [Google Hacking](01-reconnaissance/google-hacking.md)
 
 ## 02-Scanning
 
